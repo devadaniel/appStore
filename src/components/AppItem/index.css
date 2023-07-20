@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.each-app-card {
+  list-style-type: none;
+  background-color: #ffffff;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+.app-image {
+  width: 100px;
+  height: 100px;
+}
+
+.heading {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}

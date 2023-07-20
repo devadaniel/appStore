@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.tab-item-list {
+  list-style-type: none;
+}
+
+.tab-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.each-tab-item {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.active-tab-button {
+  color: #2563eb;
+}
